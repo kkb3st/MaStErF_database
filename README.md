@@ -1,2 +1,2 @@
-# MaStErF_database
+# MaStErF Database
 MaStEr F Database
